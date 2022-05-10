@@ -1,0 +1,5 @@
+d={latha='bsc',ramya='bcom',rani='msc'}
+d.pop(latha)
+d.popitem()
+d.pop(ramya)
+print(d)
